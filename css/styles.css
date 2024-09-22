@@ -322,13 +322,13 @@ position: relative;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        margin-bottom: 8px;
 }
 
 .social-list {
   display: flex;
   justify-content: center;
  gap: 24px;
- padding-top: 8px;
 }
 
 .social-list-link {
